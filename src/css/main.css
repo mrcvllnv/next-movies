@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+body {
+  @apply antialiased;
+  @apply bg-gray-900;
+  @apply font-sans;
+  @apply text-gray-100;
+  @apply leading-tight;
+}
+
+@tailwind utilities;
